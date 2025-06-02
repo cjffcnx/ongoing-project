@@ -4,8 +4,8 @@ import Form from '../../pages/blog/components/form/Form'
 
 const AddBlog = () => {
   return (
-<Layout>
-<Form/>
+<Layout heading='BlogBanau'>
+<Form type='create'/>
 </Layout>
   )
 }
